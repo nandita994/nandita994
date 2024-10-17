@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/8975dd49a0172ee81280dfa659a7572f2bf2d9fd008eb29c067825b3aa6a8e40/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Nandita Dutta</h1>
 
-  <br><b>Frontend Developer | React JS Developer | MCA Student</b><br><br>
+  <br><h2 align="middle">Frontend Developer | React JS Developer | MCA Student</h2><br><br>
   <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" >
   <div>I’m a passionate frontend developer with a focus on building dynamic, responsive, and user-friendly web applications. Proficient in React.js, JavaScript, HTML/CSS, and Tailwind CSS, I enjoy turning complex problems into intuitive digital experiences.<br><br>🔧 Projects I've Worked On:<br>Eatzilla: A modern food delivery platform featuring user authentication, e-commerce functionality, and a sleek, responsive interface.<br>WanderWhirl: A travel website with smooth navigation, custom animations, and a fully responsive design built with React.js and Tailwind CSS.<br><br>🎯 What Drives Me:<br>I'm driven by the desire to create impactful and innovative web solutions. I believe in continuous learning and strive to stay updated with the latest trends and best practices in frontend development and UI/UX design.<br><br>🌱 Let’s Build Something Together!<br>I'm always open to collaborating on exciting projects and connecting with like-minded developers. Feel free to reach out for potential collaborations or opportunities!</div>
 
