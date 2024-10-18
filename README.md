@@ -1,5 +1,9 @@
 ![MasterHead](https://camo.githubusercontent.com/8975dd49a0172ee81280dfa659a7572f2bf2d9fd008eb29c067825b3aa6a8e40/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
-<h1 align="center">Hi 👋, I'm Nandita Dutta</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nandita +Dutta!;" />
+</h1>
+
+
 
   <br><h2 align="middle">Frontend Developer | React JS Developer | MCA Student</h2><br><br>
   <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" >
