@@ -1,5 +1,6 @@
-![MasterHead](https://camo.githubusercontent.com/8975dd49a0172ee81280dfa659a7572f2bf2d9fd008eb29c067825b3aa6a8e40/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
-<br><br>
+<!---![MasterHead](https://camo.githubusercontent.com/8975dd49a0172ee81280dfa659a7572f2bf2d9fd008eb29c067825b3aa6a8e40/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)--->
+<img align="center" alt="" src="banner.gif"  width="100%" height="300"  />
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chiller&weight=500&size=40&duration=3000&pause=500&color=2ED40A&background=000000&center=true&vCenter=true&width=1010&height=60&lines=Hi+There!%F0%9F%91%8B;I'm+Nandita+Dutta!" alt="Typing SVG" /></a>
 
 <h2 align="middle">Frontend Developer | React JS Developer | MCA Student</h2><br><br>
