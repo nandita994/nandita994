@@ -83,7 +83,9 @@ I work primarily with **Java, Spring Boot, Angular, Oracle SQL, and REST APIs**,
 
 ![Git Artwork](gitartwork.svg)
 
-### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ Random Dev Quote 
+<br/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!--### 👀 Profile Views
 
