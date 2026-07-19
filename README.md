@@ -70,9 +70,9 @@ I work primarily with **Java, Spring Boot, Angular, Oracle SQL, and REST APIs**,
 
 ---
 
-### 🏆 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=nandita994&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📈 Contribution Graph
 
+[![Nandita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nandita994&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br>
 
 <!--
