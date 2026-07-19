@@ -1,5 +1,5 @@
 <img align="center" alt="Banner" src="banner.gif" width="100%" height="300"/>
-
+    
 <br>
 
 <a href="https://git.io/typing-svg">
@@ -71,15 +71,22 @@ I work primarily with **Java, Spring Boot, Angular, Oracle SQL, and REST APIs**,
 ---
 
 ### 🏆 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=nandita994&limit=5&theme=dark&combine_all_yearly_contributions=true) ![gitartwork](gitartwork.svg) <br><br>
 
+<!--
 ![](https://github-contributor-stats.vercel.app/api?username=nandita994&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+-->
 
----
+### 🎨 Git Artwork
+
+![Git Artwork](gitartwork.svg)
+
+### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 👀 Profile Views
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=nandita994&label=Profile%20Views&color=12&icon=5&pretty=true"/>
+  <img src="https://visitcount.itsvg.in/api?id=nandita994&label=Profile%20Views&color=12&icon=5&pretty=true"/>
 </p>
 
 ---
