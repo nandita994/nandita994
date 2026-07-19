@@ -71,7 +71,9 @@ I work primarily with **Java, Spring Boot, Angular, Oracle SQL, and REST APIs**,
 ---
 
 ### 🏆 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=nandita994&limit=5&theme=dark&combine_all_yearly_contributions=true) ![gitartwork](gitartwork.svg) <br><br>
+![](https://github-contributor-stats.vercel.app/api?username=nandita994&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<br><br>
 
 <!--
 ![](https://github-contributor-stats.vercel.app/api?username=nandita994&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
@@ -83,13 +85,16 @@ I work primarily with **Java, Spring Boot, Angular, Oracle SQL, and REST APIs**,
 
 ### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 👀 Profile Views
+<!--### 👀 Profile Views
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=nandita994&label=Profile%20Views&color=12&icon=5&pretty=true"/>
 </p>
+-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nandita994&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
----
 
 <p align="center">
 
