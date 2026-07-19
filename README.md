@@ -83,12 +83,11 @@ I work primarily with **Java, Spring Boot, Angular, Oracle SQL, and REST APIs**,
 
 ![Git Artwork](gitartwork.svg)
 
-### ✍️ Random Dev Quote 
-<br/>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ Random Dev Quote
 
-<!--### 👀 Profile Views
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 👀 Profile Views
+<!--
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=nandita994&label=Profile%20Views&color=12&icon=5&pretty=true"/>
 </p>
