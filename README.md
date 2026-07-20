@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" src="banner.gif" width="100%" height="300"/>
+ <img align="center" alt="Banner" src="banner.gif" width="100%" height="300"/>
     
 <br>
 
