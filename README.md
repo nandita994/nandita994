@@ -60,15 +60,12 @@ I work primarily with **Java, Spring Boot, Angular, Oracle SQL, and REST APIs**,
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=nandita994&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nandita994&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandita994&theme=tokyonight&hide_border=true&layout=compact)
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nandita994&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 📈 Contribution Graph
 
